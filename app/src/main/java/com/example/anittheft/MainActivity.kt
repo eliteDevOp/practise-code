@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     private var isPocketServiceRunning = false
     private var isBatteryServiceRunning = false
     private var isMotionServiceRunning = false
-
+//
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
