@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnitTheft</string>
+
+
+    <string name="start_service">Start  Pocket Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service_battery">Start  Battery Service</string>
+    <string name="detect_motion">Detect Motion Serivice</string>
+</resources>
